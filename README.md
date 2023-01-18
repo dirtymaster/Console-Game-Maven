@@ -1,7 +1,4 @@
-# Team 00 – Java bootcamp
-### Console Game & Maven
-
-*Takeaways: Today you will implement quite a complicated game business process using Maven build tool*
+# Console Game & Maven
 
 ### Exercise 00 – Surrender, You're Surrounded
 
